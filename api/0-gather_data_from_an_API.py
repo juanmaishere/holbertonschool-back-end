@@ -7,7 +7,7 @@ from sys import argv
 import json
 
 if __name__ == "__main__":
-
+    """ Module for Asking apis info"""
     employee_id = argv[1]
     url_todos = f"https://jsonplaceholder.typicode.com/users/{employee_id}/todos" 
     url_user = f"https://jsonplaceholder.typicode.com/users/{employee_id}"
