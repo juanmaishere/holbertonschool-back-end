@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+Summary : Api requesting employee information
+"""
 import requests
 from sys import argv
 import json
