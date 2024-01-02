@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """ADD A+B WIH ANOTATIONS"""
 
-
 def add(a: float, b: float) -> float:
     """Add two floats and return their sum."""
     return a + b
