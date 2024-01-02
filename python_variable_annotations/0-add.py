@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ADD A+B WIH ANOTATIONS"""
 
 def add(a: float, b: float) -> float:
